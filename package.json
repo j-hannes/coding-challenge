@@ -1,5 +1,5 @@
 {
-  "name": "take-home-project",
+  "name": "jahia-challenge-johannes",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,10 +9,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tanstack/react-query": "~4.0.8",
+    "@tanstack/react-query-devtools": "~4.0.8",
     "graphql-request": "~4.3.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-query": "~3.39.2"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.15",
